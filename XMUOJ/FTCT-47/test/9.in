@@ -1,0 +1,7 @@
+fun main() {
+    var answer: Long = 0
+    for (x1 in -2147483648..2147483647 step 1)
+        for (y2 in 1..2)
+            answer += y2
+    println(answer)
+}

@@ -1,0 +1,7 @@
+fun main() {
+    var answer: Long = 0
+    for (dawdhwahhj in 98 downTo -7 step 7)
+        for (i110 in -45645..5335 step 123)
+            answer += i110
+    println(answer)
+}

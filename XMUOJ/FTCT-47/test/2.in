@@ -1,0 +1,7 @@
+fun main() {
+    var answer: Long = 0
+    for (i in 0 downTo 0)
+        for (j in 0..1000000 step 233)
+            answer += j
+    println(answer)
+}

@@ -1,0 +1,40 @@
+{
+    "spj": false,
+    "test_cases": {
+        "1": {
+            "stripped_output_md5": "27ae123e9f5a01a7003f766affa52dcd",
+            "input_size": 26,
+            "output_size": 85,
+            "input_name": "1.in",
+            "output_name": "1.out"
+        },
+        "2": {
+            "stripped_output_md5": "c580e3d37a3cfc7068c1c92ee59cb20f",
+            "input_size": 71,
+            "output_size": 266,
+            "input_name": "2.in",
+            "output_name": "2.out"
+        },
+        "3": {
+            "stripped_output_md5": "60858dc3994d1d5309cf03cbb23a0c1b",
+            "input_size": 13,
+            "output_size": 34,
+            "input_name": "3.in",
+            "output_name": "3.out"
+        },
+        "4": {
+            "stripped_output_md5": "43898e0d32262e3a424ccde8662a250d",
+            "input_size": 94,
+            "output_size": 376,
+            "input_name": "4.in",
+            "output_name": "4.out"
+        },
+        "5": {
+            "stripped_output_md5": "7dd81f5f6ca10cfe3e8877fd25dc8d4b",
+            "input_size": 998,
+            "output_size": 470,
+            "input_name": "5.in",
+            "output_name": "5.out"
+        }
+    }
+}

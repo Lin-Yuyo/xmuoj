@@ -1,0 +1,7 @@
+fun main() {
+    var answer: Long = 0
+    for (x in -233..233 step 6)
+        for (y in -2147483648..0 step 23333)
+            answer += y
+    println(answer)
+}

@@ -1,0 +1,7 @@
+fun main() {
+    var answer: Long = 0
+    for (x123 in 994613 downTo -50 step 1)
+        for (y1231231321313 in 2..3 step 2)
+            answer += y1231231321313
+    println(answer)
+}
